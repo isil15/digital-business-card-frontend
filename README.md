@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Digital Business Card
 
 Frontend source of graduation project
